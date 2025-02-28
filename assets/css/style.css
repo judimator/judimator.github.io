@@ -310,27 +310,6 @@ li {
     margin: 0;
 }
 
-.about .skills .item {
-    margin-top: 10px;
-}
-
-.about .skills .item .skill-info {
-    margin-bottom: 30px;
-}
-
-.about .skills .item .skill-info h3 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 14px;
-    margin: 0;
-}
-
-.about .skills .item .skill-info span {
-    font-family: 'Poppins', sans-serif;
-    font-size: 12px;
-    font-weight: 300;
-    color: #9C9C9C;
-}
-
 .about .resume-download {
     display: block;
     position: absolute;
@@ -352,7 +331,6 @@ li {
 .resume .resume-item {
     background: #FFF;
     margin-top: 30px;
-    max-height: 160px;
     overflow: hidden;
 }
 
